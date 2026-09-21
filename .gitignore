@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.vault/
+alice/
+bob/
+*.card.json
+note*.txt
+bad.txt
+*.pem
+*.db
+*.chunk
