@@ -22,7 +22,7 @@ Encrypted local file store and public-key sync engine.
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<austinfutures>/vaultsync.git
+git clone https://github.com/austinfutures/vaultsync.git
 cd vaultsync
 python3 -m venv .venv
 source .venv/bin/activate
